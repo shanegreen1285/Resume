@@ -1,34 +1,47 @@
 # Resume
 
+![headshot](https://raw.githubusercontent.com/shanegreen1285/Resume/gh-pages/headshot.jpg)
 
-### Markdown
+## Shane Green
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact Info
+- E-mail: shanegreen1285@gmail.com
 
-```markdown
-Syntax highlighted code block
+## Education
+- **MiraCosta College** Computer Science / Mathmatics degree in progress
+- **Cal Poly Slo** Busines / Accounting
+  - left for health reasons
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
+- **Primary Languages:** Java
+- **Secondary Languages:** C++, Python, GLScript
+- **Operating Systems:** Windows
+- **Foreign Languages:** Some Spanish
 
-- Bulleted
-- List
+## Work Experience
+- **Program Leader**
+  - Boys & Girls Club of America (Winter 2019 - Winter 2020) 
+  - Leadership Experience
+  - Responsible for planning all outdoors activities for our branch. Lead group games, plan special events
+  and run field trips. The experience taught me how to take charge of a situation and maintain control over
+  large group activities.
 
-1. Numbered
-2. List
+- **Corporate Office Work** Data Entry
+  - All Pro Bail Bonds (Fall 2016 - Fall 2017)
+  - Gave me experience in an office environment. Experienced with office equipment and data entry in Excell.
 
-**Bold** and _Italic_ and `Code` text
+## Programming Experience
+- **Guitar Teaching Tool**
+  - Created an application to help someone visualize the fretboard of a guitar in any tuning
+  - Allows user to build and locate scales along the fretboard, in their desired tuning
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shanegreen1285/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **3D Maze Game**
+  - Built a game in which you must find all the coins around a maze in the game engine Godot
+  - Had to use Blender and Audacity to create assets for game
+  
+## Honors and Awards
+- **Deans List Student**
+  - made Deans list first quarter while attending Cal Poly Slo
+  
+- **4.0 Student**
+  - maintained a 4.0 GPA since attending Mira Costa College
